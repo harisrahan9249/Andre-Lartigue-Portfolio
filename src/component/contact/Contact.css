@@ -58,7 +58,7 @@ input,textarea {
  }
  @media screen and (max-width: 600px) {
     #contact {
-        /* height: 10vh; */
+        
         margin-top: 800px;
     }
     .container.contact__container {

@@ -14,11 +14,8 @@
 .portfolio_item:hover {
     border-color: var(--color-primary-varient);
     background: transparent;
-/* }
-.portfolio_item-image img {
-    width: 500px;
-    /* height: 300px; */
-} */
+
+} 
 .portfolio_item-image {
     border-radius: 1.5rem;
   
@@ -32,7 +29,7 @@
 .portfoio__item-cta  {
 
     display: flex;
-    /* background: black; */
+
    justify-content: space-evenly;
     gap: 3rem;
     margin-bottom: 1rem;
