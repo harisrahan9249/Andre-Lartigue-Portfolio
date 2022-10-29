@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Andre-Lartigue-Portfolio/static/css/main.301d737f.css",
+    "main.js": "/Andre-Lartigue-Portfolio/static/js/main.43c762ab.js",
+    "static/media/Ses Cendres Poster.png": "/Andre-Lartigue-Portfolio/static/media/Ses Cendres Poster.6859d9d4e68c9a6d4b6c.png",
+    "static/media/Headshot.jpg": "/Andre-Lartigue-Portfolio/static/media/Headshot.b492abfacaac74e93e8c.jpg",
+    "static/media/WhatsApp Image 2022-10-27 at 10.46.13 PM.jpeg": "/Andre-Lartigue-Portfolio/static/media/WhatsApp Image 2022-10-27 at 10.46.13 PM.012dbdf9a787097f75ce.jpeg",
+    "static/media/WhatsApp Image 2022-10-27 at 10.46.13.jpeg": "/Andre-Lartigue-Portfolio/static/media/WhatsApp Image 2022-10-27 at 10.46.13.e49b4c5d5e9ba9c7859d.jpeg",
+    "index.html": "/Andre-Lartigue-Portfolio/index.html",
+    "main.301d737f.css.map": "/Andre-Lartigue-Portfolio/static/css/main.301d737f.css.map",
+    "main.43c762ab.js.map": "/Andre-Lartigue-Portfolio/static/js/main.43c762ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.301d737f.css",
+    "static/js/main.43c762ab.js"
+  ]
+}
